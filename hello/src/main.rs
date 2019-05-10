@@ -6,7 +6,10 @@
 //mod arrays;
 //mod conditional;
 //mod loops;
-mod functions;
+//mod functions;
+//mod structs;
+//mod enums;
+mod args;
 
 fn main() {
     //print::run();
@@ -17,5 +20,8 @@ fn main() {
     //arrays::run();
     //conditional::run();
     //loops::run();
-    functions::run();
+    //functions::run();
+    //structs::run();
+    //enums::run();
+    args::run();
 }
