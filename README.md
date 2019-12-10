@@ -35,3 +35,4 @@ https://www.youtube.com/watch?v=zF34dRivLOw
 
 ## build pra producao
  cargo build --release
+ 
