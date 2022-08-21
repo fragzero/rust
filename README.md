@@ -5,7 +5,7 @@ https://www.rust-lang.org/learn/get-started
 https://www.youtube.com/watch?v=zF34dRivLOw
 
 ## Instalation
- $HOME/.cargo\bin
+ $HOME/.cargo/bin
 
 ## comandos
  $ rustup --version
