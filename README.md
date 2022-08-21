@@ -5,7 +5,7 @@ https://www.rust-lang.org/learn/get-started
 https://www.youtube.com/watch?v=zF34dRivLOw
 
 ## Instalation
- C:\Users\accurate\.cargo\bin
+ $HOME/.cargo\bin
 
 ## comandos
  $ rustup --version
